@@ -1,2 +1,3 @@
 # EcommerceAnalysis
-This project provides a comprehensive analysis of customer orders and sales using a multi-table database. This project aims to uncover key insights into order patterns, customer behavior, and product performance.
+This project uses a multi-table database to provide an analysis and visualization. The goal is to uncover key insights into order patterns, customer behavior, and product performance.
+
