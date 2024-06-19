@@ -24,8 +24,9 @@ UNION ALL
 SELECT orderID, Product, Quantity, price, orderdate, location FROM AprSales
 UNION ALL
 SELECT orderID, Product, Quantity, price, orderdate, location FROM MaySales;
+
 --EDA: Select all columns from Table
-SELECT * FROM JanSales LIMIT 10;
+SELECT * FROM CombinedSales LIMIT 10;
 ----------------------------------------------
 
 --#Q1. How many orders were placed in January? 
