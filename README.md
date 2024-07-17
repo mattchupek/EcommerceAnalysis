@@ -1,4 +1,4 @@
-# EcommerceAnalysis
+# Ecommerce Analysis
 
 ### Project Overview
 
